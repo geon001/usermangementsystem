@@ -44,8 +44,8 @@ cse:
   rest:
     address: 0.0.0.0:8070
   credentials:
-    accessKey: APFUZS1I0NCXEQDE8WE0
-    secretKey: OrNkf8wUcIIQpfEJkpXb70RA68b27OqGFHgAsN04
+    accessKey: HH4XF4LYBVTABZPV0AOI
+    secretKey: cGFnwxl2Z7Hl1oNiq81Yp0Afk1eNXsSALc77OINq
     project: cn-north-4
     akskCustomerCipher: default
   edge:
