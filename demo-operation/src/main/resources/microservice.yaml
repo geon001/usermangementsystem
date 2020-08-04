@@ -41,8 +41,8 @@ servicecomb:
   rest:
     address: 0.0.0.0:8082
   credentials:
-    accessKey: HH4XF4LYBVTABZPV0AOI
-    secretKey: cGFnwxl2Z7Hl1oNiq81Yp0Afk1eNXsSALc77OINq
+    accessKey: 1
+    secretKey: 1
     project: cn-north-4
     akskCustomerCipher: default
   handler:
