@@ -29,20 +29,20 @@ servicecomb:
     allowedMethod: GET,POST,DELETE,PUT
   service:
     registry:
-      address: https://cse.cn-north-4.myhuaweicloud.com:443
+      address: https://192.168.0.60:30100
   config:
     client:
-      serverUri: https://cse.cn-north-4.myhuaweicloud.com:443
+      serverUri: https://192.168.0.60:30103
       refreshMode: 1        
       refresh_interval: 5000
   monitor:                  
     client:
-      serverUri: https://cse.cn-north-4.myhuaweicloud.com:443    
+      serverUri: https://192.168.0.60:30100
   rest:
     address: 0.0.0.0:8082
   credentials:
-    accessKey: 1
-    secretKey: 1
+    accessKey: HH4XF4LYBVTABZPV0AOI
+    secretKey: cGFnwxl2Z7Hl1oNiq81Yp0Afk1eNXsSALc77OINq
     project: cn-north-4
     akskCustomerCipher: default
   handler:
