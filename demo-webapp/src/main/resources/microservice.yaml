@@ -34,7 +34,7 @@ cse:
       address: https://192.168.0.60:30100
   config:
     client:
-      serverUri: https://192.168.0.60:30100
+      serverUri: https://192.168.0.60:30103
       refreshMode: 1        
       refresh_interval: 5000
   monitor:                  
